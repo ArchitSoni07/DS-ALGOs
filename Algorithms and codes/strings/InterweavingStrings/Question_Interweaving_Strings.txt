@@ -1,0 +1,13 @@
+Determine whether or not the given two strings can form the target string
+
+Example:
+    Given   : aaa   aaaf
+    Target  : aaafaaa
+
+Solution    : True
+
+Example:
+    Given : abcd    efgh
+    Target : aefgbchd
+
+Solution : True

@@ -1,0 +1,9 @@
+We have to group a group of characters or simply say strings that have the same characters
+Example:
+        [yo,act,flop,tac,cat,oy,olfp]
+Solution:
+        [
+            [yo,oy],
+            [flop,olfp],
+            [act,cat,tac]
+        ]
